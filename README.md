@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Miske98, MS student of Mathematics
 - 👀 I’m interested in statistics, big data, data science and ML
-- 🌱 I’m currently learning working with big data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - mail: misic.pavle.statistika@gmail.com
 - ⚡ Fun fact: I love pizza more than my wife
