@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miske98, MS student of Mathematics
+- 👋 Hi, I’m @Miske98, student of Mathematics
 - 👀 I’m interested in statistics, big data, data science and ML
 - 💞️ I’m looking to collaborate on ML semantic based psychology tests
 - 📫 How to reach me - mail: misic.pavle.statistika@gmail.com
