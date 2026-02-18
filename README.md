@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miske98, student of Mathematics
-- 👀 I’m interested in statistics, data science and ML
+- 👀 I’m interested in research statistics and vector embeddings
 - 💞️ I’m looking to collaborate on ML semantic based psychology tests
-- 📫 How to reach me - mail: misic.pavle.statistika@gmail.com
+- 📫 How to reach me - mail: misic.pavle@gmail.com
 - ⚡ Fun fact: I love pizza more than my wife
 <!---
 Miske98/Miske98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
